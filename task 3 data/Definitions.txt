@@ -1,0 +1,4 @@
+tmax;Maximum Temperature
+tmin;Minimum Temperature
+d1;Day1 of the month
+d30;Day30 of the month
